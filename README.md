@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/github/followers/AlexEBall?label=Follow&style=social)](https://github.com/AlexEBall)
+
+- 🔭 I’m currently working as a Software Architect at Sidecar Health
+
+<a href="https://github.com/AlexEBall">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexEBall&show_icons=true&theme=merko&count_private=true" alt="Alex's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexEBall&theme=merko&layout=compact" alt="Alex's github top languages" />
+</a>
+<br/>
+
 <!--
 **AlexEBall/AlexEBall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
